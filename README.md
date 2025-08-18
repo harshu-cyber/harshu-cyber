@@ -50,25 +50,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=harshu-cyber&rank=-C,-B&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
 </p>
 
----
 
-## 🚀 Featured Projects
-- **AI Research Toolkit** – Streamlined pipelines for training & evaluation  
-- **Automation Scripts Hub** – Everyday productivity scripts in Python/JS  
-- **Smart Vision** – OpenCV-based real-time detection & classification  
-- **SaaS Starter Kit** – Full-stack boilerplate with auth, billing, CI/CD  
-
-
-
----
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=harshu-cyber&label=Profile%20Views&color=11&icon=5&pretty=true" />
-  </a>
-</p>
-
----
 <p align="center">
   <i>“Code is temporary, impact is forever.”</i>
 </p>
