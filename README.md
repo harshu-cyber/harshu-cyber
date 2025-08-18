@@ -13,10 +13,37 @@ Hi, I'm Harsh Agnoihotri👋<br>I'm an Aspiring software developer pursuing B.Te
 ![](https://nirzak-streak-stats.vercel.app/?user=harshu-cyber&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=harshu-cyber&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=harshu-cyber&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+## 🚀 GitHub Profile Overview  
+
+<p align="center">
+  <!-- 🏆 Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=harshu-cyber&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=harshu-cyber&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<p align="center">
+  <!-- ⚡ Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=harshu-cyber&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <!-- 🔥 Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshu-cyber&theme=radical" alt="Streak Stats" />
+</p>
+
+<p align="center">
+  <!-- 📊 Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshu-cyber&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+<p align="center">
+  <!-- 👀 Profile Views -->
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=harshu-cyber&label=Profile%20Views&color=11&icon=5&pretty=true" />
+  </a>
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
