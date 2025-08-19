@@ -45,12 +45,14 @@
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="center">
+## 🏆 GitHub Trophies & Quote
+<table align="center">
+<tr>
+<td align="center" width="60%">
   <img src="https://github-profile-trophy.vercel.app/?username=harshu-cyber&rank=-C,-B&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
-</p>
-
-
-<p align="center">
-  <i>“Code is temporary, impact is forever.”</i>
-</p>
+</td>
+<td align="center" width="40%">
+  <i><b>“Code is temporary,<br>impact is forever.”</b></i>
+</td>
+</tr>
+</table>
