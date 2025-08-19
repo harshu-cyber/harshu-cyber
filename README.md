@@ -43,15 +43,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshu-cyber&theme=github-compact" />
 </p>
 
----
-
-## 🏆 GitHub Trophies & Quote
-<table align="center">
-<tr>
-<td align="center" width="60%">
-  <img src="https://github-profile-trophy.vercel.app/?username=harshu-cyber&rank=-C,-B&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
-</td>
-<td align="center" width="40%">
   <i><b>“Code is temporary,<br>impact is forever.”</b></i>
 </td>
 </tr>
