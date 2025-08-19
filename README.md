@@ -39,11 +39,36 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshu-cyber&layout=compact&theme=radical&hide_border=true" height="160" />
 </p>
 
+---
+
+## 💡 Dev Quote
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshu-cyber&theme=github-compact" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
+---
+
+## 🏆 GitHub Trophies & Quote
+<table align="center">
+<tr>
+<td align="center" width="60%">
+  <img src="https://github-profile-trophy.vercel.app/?username=harshu-cyber&rank=-C,-B&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
+</td>
+<td align="center" width="40%">
   <i><b>“Code is temporary,<br>impact is forever.”</b></i>
 </td>
 </tr>
 </table>
+
+---
+
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=harshu-cyber&label=Profile%20Views&color=11&icon=5&pretty=true" />
+  </a>
+</p>
+
+---
+<p align="center">
+  <i>⭐ From Harsh with ❤️</i>
+</p>
