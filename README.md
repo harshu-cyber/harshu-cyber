@@ -23,9 +23,18 @@
 ---
 
 ## 💻 Tech Stack
+---
+
+## 💻 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,php,js,html,css,django,flask,opencv,react,bootstrap,tailwind,mysql,mongodb,sqlite,git,github,linux,aws,vercel" />
+  🐍 Python | ☕ Java | 🐘 PHP | ⚡ JavaScript | 🌐 HTML | 🎨 CSS  
+  🟢 Django | 🔥 Flask | 👁️ OpenCV | ⚛️ React | 🎀 Bootstrap | 🌊 Tailwind CSS  
+  🗄️ MySQL | 🍃 MongoDB | 📘 SQLite  
+  🛠️ Git | 🐙 GitHub | 🐧 Linux | ☁️ AWS | ▲ Vercel
 </p>
+
+---
+
 
 ---
 
