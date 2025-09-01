@@ -17,7 +17,7 @@
 ## 💫 About Me
 - 🔭 Pursuing **B.Tech** with focus on **AI & Data Science**  
 - 🧩 Love: **building AI-driven tools** & **automation systems**  
-- 🌱 Currently exploring **Deep Learning, MLOps & GenAI**  
+- 🌱 Currently exploring **Deep Learning, MLOps & DATA SCIENCE**  
 - ⚡ Fun fact: *I break code just to make it stronger*  
 
 ---
